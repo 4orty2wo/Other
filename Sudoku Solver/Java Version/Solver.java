@@ -61,6 +61,16 @@ public class Solver {
 
     }
 
+    private void checkGrid(){
+
+    }
+
+    private void checkColumn(){
+
+    }
+
+    private void checkRow(){}
+
     private void solve(){
         fillBoard();
         printBoard();
